@@ -1,0 +1,8 @@
+.carousel-item, .carousel-item.active {
+    align-items:center;
+    width: 100%;
+}
+
+.Caption {
+    color: black;
+}
